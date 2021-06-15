@@ -11,7 +11,6 @@ public class ClassTest {
     }
 
 }
-
 class City{
     public String name;
     public double latitude;
