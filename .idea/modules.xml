@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/JavaHello/JavaHello.iml" filepath="$PROJECT_DIR$/JavaHello/JavaHello.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaProgramBasics/JavaProgramBasics.iml" filepath="$PROJECT_DIR$/JavaProgramBasics/JavaProgramBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Object-oriented/Object-oriented.iml" filepath="$PROJECT_DIR$/Object-oriented/Object-oriented.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflection/Reflection.iml" filepath="$PROJECT_DIR$/Reflection/Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
     </modules>
   </component>
 </project>
