@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CollectionTest/CollectionTest.iml" filepath="$PROJECT_DIR$/CollectionTest/CollectionTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/CoreClasses/CoreClasses.iml" filepath="$PROJECT_DIR$/CoreClasses/CoreClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaBasic.iml" filepath="$PROJECT_DIR$/JavaBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaException/JavaException.iml" filepath="$PROJECT_DIR$/JavaException/JavaException.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaHello/JavaHello.iml" filepath="$PROJECT_DIR$/JavaHello/JavaHello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIOTest/JavaIOTest.iml" filepath="$PROJECT_DIR$/JavaIOTest/JavaIOTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaProgramBasics/JavaProgramBasics.iml" filepath="$PROJECT_DIR$/JavaProgramBasics/JavaProgramBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Object-oriented/Object-oriented.iml" filepath="$PROJECT_DIR$/Object-oriented/Object-oriented.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reflection/Reflection.iml" filepath="$PROJECT_DIR$/Reflection/Reflection.iml" />
