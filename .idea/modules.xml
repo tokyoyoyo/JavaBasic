@@ -10,8 +10,11 @@
       <module fileurl="file://$PROJECT_DIR$/JavaHello/JavaHello.iml" filepath="$PROJECT_DIR$/JavaHello/JavaHello.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaIOTest/JavaIOTest.iml" filepath="$PROJECT_DIR$/JavaIOTest/JavaIOTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaProgramBasics/JavaProgramBasics.iml" filepath="$PROJECT_DIR$/JavaProgramBasics/JavaProgramBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JunnitStudy/JunnitStudy.iml" filepath="$PROJECT_DIR$/JunnitStudy/JunnitStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Object-oriented/Object-oriented.iml" filepath="$PROJECT_DIR$/Object-oriented/Object-oriented.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reflection/Reflection.iml" filepath="$PROJECT_DIR$/Reflection/Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpression/RegularExpression.iml" filepath="$PROJECT_DIR$/RegularExpression/RegularExpression.iml" />
       <module fileurl="file://$PROJECT_DIR$/TimeAndDate/TimeAndDate.iml" filepath="$PROJECT_DIR$/TimeAndDate/TimeAndDate.iml" />
       <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
     </modules>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/JunnitStudy/src/test/com/jie/junit/AbsTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/JunnitStudy/src/test/com/jie/junit/CalculatorTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/JunnitStudy/src/test/com/jie/junit/FactorialTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/JunnitStudy/src/test/com/jie/junit/JunitStudyTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/JunnitStudy/src/test/com/jie/junit/StringUtilsTest.java" charset="GBK" />
   </component>
 </project>
